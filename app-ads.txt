@@ -14,6 +14,10 @@ bidmachine.io,466,DIRECT
 
 google.com, pub-8496589232335509, DIRECT, f08c47fec0942fa0
 
+#Meta
+
+facebook.com, 1294674006097225, DIRECT, c3e20eee3f780d68
+
 #Resellers
 152media.info, 152M312, RESELLER
 
